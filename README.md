@@ -1,3 +1,4 @@
 # A-Simple-Network
+# Remainder :- You need Cisco Packet Tracer to view this Network
 A simple Network connecting all the 4 years engineering students to the administration of a college.
 In this network simulation created using Packet Tracer, I've designed a comprehensive infrastructure to reflect the dynamic environment of an engineering college. The network consists of four distinct 'Local Area Networks' (LANs), symbolizing each year of engineering education, seamlessly integrated with the college's Administration LAN. PCs, laptops, and servers are strategically interconnected within each LAN, facilitating efficient communication and data sharing.In this network,I have used switchs and routers to connect all the LANs, where router to router connection is done with the help of cross-over cable ad router to switch connection with the help of straight-through cable. I have even created static routes making it possible to share information from one LAN to another. 
